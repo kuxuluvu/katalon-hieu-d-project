@@ -21,20 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-
-WebUI.takeScreenshotAsCheckpoint("viewport_result_01")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_02")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_03")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_04")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_05")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_06")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_07")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_08")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_09")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_10")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_11")
-WebUI.takeScreenshotAsCheckpoint("viewport_result_12")
-
-
-WebUI.closeBrowser()
-
+WebUI.takeScreenshotAsCheckpoint('current_viewport1')
+WebUI.takeScreenshotAsCheckpoint('current_viewport2')
+WebUI.takeScreenshotAsCheckpoint('current_viewport3')
+WebUI.takeScreenshotAsCheckpoint('current_viewport4')
+WebUI.takeScreenshotAsCheckpoint('current_viewport5')
+WebUI.takeScreenshotAsCheckpoint('current_viewport6')
+WebUI.takeScreenshotAsCheckpoint('current_viewport7')
+WebUI.takeScreenshotAsCheckpoint('current_viewport8')
+WebUI.takeScreenshotAsCheckpoint('current_viewport9')
+WebUI.takeScreenshotAsCheckpoint('current_viewport10')
+WebUI.takeScreenshotAsCheckpoint('current_viewport11')
+WebUI.takeScreenshotAsCheckpoint('current_viewport12')
